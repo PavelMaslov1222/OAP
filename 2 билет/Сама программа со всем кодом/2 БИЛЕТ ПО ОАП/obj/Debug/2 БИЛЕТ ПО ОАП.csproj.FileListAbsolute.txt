@@ -1,0 +1,8 @@
+C:\Users\Houme-PC\Source\Repos\2 БИЛЕТ ПО ОАП\2 БИЛЕТ ПО ОАП\bin\Debug\2 БИЛЕТ ПО ОАП.exe.config
+C:\Users\Houme-PC\Source\Repos\2 БИЛЕТ ПО ОАП\2 БИЛЕТ ПО ОАП\bin\Debug\2 БИЛЕТ ПО ОАП.exe
+C:\Users\Houme-PC\Source\Repos\2 БИЛЕТ ПО ОАП\2 БИЛЕТ ПО ОАП\bin\Debug\2 БИЛЕТ ПО ОАП.pdb
+C:\Users\Houme-PC\Source\Repos\2 БИЛЕТ ПО ОАП\2 БИЛЕТ ПО ОАП\obj\Debug\2 БИЛЕТ ПО ОАП.csproj.AssemblyReference.cache
+C:\Users\Houme-PC\Source\Repos\2 БИЛЕТ ПО ОАП\2 БИЛЕТ ПО ОАП\obj\Debug\2 БИЛЕТ ПО ОАП.csproj.SuggestedBindingRedirects.cache
+C:\Users\Houme-PC\Source\Repos\2 БИЛЕТ ПО ОАП\2 БИЛЕТ ПО ОАП\obj\Debug\2 БИЛЕТ ПО ОАП.csproj.CoreCompileInputs.cache
+C:\Users\Houme-PC\Source\Repos\2 БИЛЕТ ПО ОАП\2 БИЛЕТ ПО ОАП\obj\Debug\2 БИЛЕТ ПО ОАП.exe
+C:\Users\Houme-PC\Source\Repos\2 БИЛЕТ ПО ОАП\2 БИЛЕТ ПО ОАП\obj\Debug\2 БИЛЕТ ПО ОАП.pdb
