@@ -1,0 +1,16 @@
+C:\Users\Houme-PC\Source\Repos\Билет номер 1 по ОАП\Билет номер 1 по ОАП\bin\Debug\Билет номер 1 по ОАП.exe.config
+C:\Users\Houme-PC\Source\Repos\Билет номер 1 по ОАП\Билет номер 1 по ОАП\bin\Debug\Билет номер 1 по ОАП.exe
+C:\Users\Houme-PC\Source\Repos\Билет номер 1 по ОАП\Билет номер 1 по ОАП\bin\Debug\Билет номер 1 по ОАП.pdb
+C:\Users\Houme-PC\Source\Repos\Билет номер 1 по ОАП\Билет номер 1 по ОАП\obj\Debug\Билет номер 1 по ОАП.csproj.AssemblyReference.cache
+C:\Users\Houme-PC\Source\Repos\Билет номер 1 по ОАП\Билет номер 1 по ОАП\obj\Debug\Билет номер 1 по ОАП.csproj.SuggestedBindingRedirects.cache
+C:\Users\Houme-PC\Source\Repos\Билет номер 1 по ОАП\Билет номер 1 по ОАП\obj\Debug\Билет номер 1 по ОАП.csproj.CoreCompileInputs.cache
+C:\Users\Houme-PC\Source\Repos\Билет номер 1 по ОАП\Билет номер 1 по ОАП\obj\Debug\Билет номер 1 по ОАП.exe
+C:\Users\Houme-PC\Source\Repos\Билет номер 1 по ОАП\Билет номер 1 по ОАП\obj\Debug\Билет номер 1 по ОАП.pdb
+C:\Users\Houme-PC\OneDrive\Рабочий стол\Все билеты по экзамену ОАП\1 билет\Билет номер 1 по ОАП\Билет номер 1 по ОАП\bin\Debug\Билет номер 1 по ОАП.exe.config
+C:\Users\Houme-PC\OneDrive\Рабочий стол\Все билеты по экзамену ОАП\1 билет\Билет номер 1 по ОАП\Билет номер 1 по ОАП\bin\Debug\Билет номер 1 по ОАП.exe
+C:\Users\Houme-PC\OneDrive\Рабочий стол\Все билеты по экзамену ОАП\1 билет\Билет номер 1 по ОАП\Билет номер 1 по ОАП\bin\Debug\Билет номер 1 по ОАП.pdb
+C:\Users\Houme-PC\OneDrive\Рабочий стол\Все билеты по экзамену ОАП\1 билет\Билет номер 1 по ОАП\Билет номер 1 по ОАП\obj\Debug\Билет номер 1 по ОАП.csproj.AssemblyReference.cache
+C:\Users\Houme-PC\OneDrive\Рабочий стол\Все билеты по экзамену ОАП\1 билет\Билет номер 1 по ОАП\Билет номер 1 по ОАП\obj\Debug\Билет номер 1 по ОАП.csproj.SuggestedBindingRedirects.cache
+C:\Users\Houme-PC\OneDrive\Рабочий стол\Все билеты по экзамену ОАП\1 билет\Билет номер 1 по ОАП\Билет номер 1 по ОАП\obj\Debug\Билет номер 1 по ОАП.csproj.CoreCompileInputs.cache
+C:\Users\Houme-PC\OneDrive\Рабочий стол\Все билеты по экзамену ОАП\1 билет\Билет номер 1 по ОАП\Билет номер 1 по ОАП\obj\Debug\Билет номер 1 по ОАП.exe
+C:\Users\Houme-PC\OneDrive\Рабочий стол\Все билеты по экзамену ОАП\1 билет\Билет номер 1 по ОАП\Билет номер 1 по ОАП\obj\Debug\Билет номер 1 по ОАП.pdb
